@@ -11,6 +11,7 @@ Welcome to Demo Sphinx Doc's documentation!
    :caption: Contents:
 
    demo-md
+   sayhi
 
 Indices and tables
 ==================

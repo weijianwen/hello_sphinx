@@ -1,4 +1,4 @@
-# 这是一个演示文稿
+# 一篇精彩的文章
 
 That has a paragraph about a main subject and is set when the '='
 is at least the same length of the title itself.
@@ -13,4 +13,4 @@ Words can have *emphasis in italics* or be **bold** and you can define
 code samples with back quotes, like when you talk about a command: ``sudo``
 gives you super user powers!
 
-用来测试搜索是否奏效的内容。
+整理有引人入胜的内容。
