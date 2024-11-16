@@ -10,7 +10,7 @@ Welcome to Demo Sphinx Doc's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   demo-md
 
 Indices and tables
 ==================
