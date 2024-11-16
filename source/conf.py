@@ -32,7 +32,6 @@ release = '1.0.0'
 # ones.
 extensions = [
     'recommonmark',
-    'sphinx_immaterial',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -56,7 +55,7 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'sphinx_immaterial'
+html_theme = 'sphinx_material'
 
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -68,5 +67,5 @@ html_static_path = ['_static']
 html_theme_options = {
     # Do not download google fonts
     # See "Extension error" https://github.com/jbms/sphinx-immaterial/issues/216
-    "font": False
+    # "font": False
 }
